@@ -1,0 +1,16 @@
+
+# Ignore dynaconf secret files
+.secrets.*
+
+build
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+
+.idea
+.vscode
+
+venv

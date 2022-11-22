@@ -1,0 +1,7 @@
+aiogram==3.0.0b3
+
+dynaconf~=3.1.11
+ormsgpack~=1.2.3
+sqlalchemy==1.4.44
+alembic==1.8.1
+aiopg==1.4.0
